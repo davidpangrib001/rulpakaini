@@ -1,7 +1,7 @@
 {
-  "name": "Onee",
-  "version": "11",
-  "description": "4lpha B0t Multi Device, Only update in YouTube ZEEONE OFC",
+  "name": "Zifa Botz",
+  "version": "1.0.2 Quick",
+  "description": "WhatsApp Bot With Baileys Multi Device",
   "main": "zeeone.js",
   "license": "MIT",
   "scripts": {
@@ -14,7 +14,7 @@
     "base",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "Rozi",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
